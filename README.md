@@ -1,1 +1,1 @@
-#Simple OOP game written in C++
+Simple OOP game written in C++
